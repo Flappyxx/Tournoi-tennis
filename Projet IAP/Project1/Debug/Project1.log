@@ -1,0 +1,14 @@
+﻿  Source.c
+C:\Users\LINos\OneDrive\Bureau\Projet IAP\Project1\Source.c(179,34): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\LINos\OneDrive\Bureau\Projet IAP\Project1\Source.c(247,34): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\LINos\OneDrive\Bureau\Projet IAP\Project1\Source.c(284,42): warning C4028: paramètre formel 1 différent de la déclaration
+C:\Users\LINos\OneDrive\Bureau\Projet IAP\Project1\Source.c(292,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\LINos\OneDrive\Bureau\Projet IAP\Project1\Source.c(320,45): warning C4028: paramètre formel 1 différent de la déclaration
+C:\Users\LINos\OneDrive\Bureau\Projet IAP\Project1\Source.c(329,34): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\LINos\OneDrive\Bureau\Projet IAP\Project1\Source.c(390,38): warning C4028: paramètre formel 1 différent de la déclaration
+C:\Users\LINos\OneDrive\Bureau\Projet IAP\Project1\Source.c(392,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\LINos\OneDrive\Bureau\Projet IAP\Project1\Source.c(396,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\LINos\OneDrive\Bureau\Projet IAP\Project1\Source.c(403,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\LINos\OneDrive\Bureau\Projet IAP\Project1\Source.c(410,20): warning C4018: '<' : incompatibilité signed/unsigned
+  LINK : C:\Users\LINos\OneDrive\Bureau\Projet IAP\Debug\Project1.exe introuvable ou non généré par la dernière édition de liens incrémentielle ; édition de liens complète en cours
+  Project1.vcxproj -> C:\Users\LINos\OneDrive\Bureau\Projet IAP\Debug\Project1.exe
